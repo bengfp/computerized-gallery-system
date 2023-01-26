@@ -1,0 +1,15 @@
+C:\Users\joann\Documents\LaSalleCollege_Pratic\ThirdSem\Multi-tierApp\Projects\CGS_Win\bin\Debug\CGS_Win.exe.config
+C:\Users\joann\Documents\LaSalleCollege_Pratic\ThirdSem\Multi-tierApp\Projects\CGS_Win\bin\Debug\CGS_Win.exe
+C:\Users\joann\Documents\LaSalleCollege_Pratic\ThirdSem\Multi-tierApp\Projects\CGS_Win\bin\Debug\CGS_Win.pdb
+C:\Users\joann\Documents\LaSalleCollege_Pratic\ThirdSem\Multi-tierApp\Projects\CGS_Win\obj\Debug\CGS_Win.csproj.AssemblyReference.cache
+C:\Users\joann\Documents\LaSalleCollege_Pratic\ThirdSem\Multi-tierApp\Projects\CGS_Win\obj\Debug\CGS_Win.Login.resources
+C:\Users\joann\Documents\LaSalleCollege_Pratic\ThirdSem\Multi-tierApp\Projects\CGS_Win\obj\Debug\CGS_Win.Properties.Resources.resources
+C:\Users\joann\Documents\LaSalleCollege_Pratic\ThirdSem\Multi-tierApp\Projects\CGS_Win\obj\Debug\CGS_Win.csproj.GenerateResource.cache
+C:\Users\joann\Documents\LaSalleCollege_Pratic\ThirdSem\Multi-tierApp\Projects\CGS_Win\obj\Debug\CGS_Win.csproj.CoreCompileInputs.cache
+C:\Users\joann\Documents\LaSalleCollege_Pratic\ThirdSem\Multi-tierApp\Projects\CGS_Win\obj\Debug\CGS_Win.csproj.CopyComplete
+C:\Users\joann\Documents\LaSalleCollege_Pratic\ThirdSem\Multi-tierApp\Projects\CGS_Win\obj\Debug\CGS_Win.exe
+C:\Users\joann\Documents\LaSalleCollege_Pratic\ThirdSem\Multi-tierApp\Projects\CGS_Win\obj\Debug\CGS_Win.pdb
+C:\Users\joann\Documents\LaSalleCollege_Pratic\ThirdSem\Multi-tierApp\Projects\CGS_Win\bin\Debug\CGS_Classes.dll
+C:\Users\joann\Documents\LaSalleCollege_Pratic\ThirdSem\Multi-tierApp\Projects\CGS_Win\bin\Debug\CGS_Classes.pdb
+C:\Users\joann\Documents\LaSalleCollege_Pratic\ThirdSem\Multi-tierApp\Projects\CGS_Win\obj\Debug\CGS_Win.mainForm.resources
+C:\Users\joann\Documents\LaSalleCollege_Pratic\ThirdSem\Multi-tierApp\Projects\CGS_Win\obj\Debug\CGS_Win.sellForm.resources
